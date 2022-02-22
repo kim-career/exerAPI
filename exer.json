@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "새끼고양이",
+    "src": "https://cdn.pixabay.com/photo/2020/06/02/06/52/cat-5249722__480.jpg"
+  },
+  {
+    "id": 2,
+    "name": "검은새끼고양이",
+    "src": "https://www.readersnews.com/news/photo/202108/103812_71563_5024.jpg"
+  },
+  {
+    "id": 3,
+    "name": "하늘을 나는 고양이",
+    "src": "http://flexible.img.hani.co.kr/flexible/normal/970/518/imgdb/original/2020/1109/2116049004545657.jpg"
+  }
+]
